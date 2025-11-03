@@ -1,5 +1,5 @@
 #!/bin/bash
-
+node app.js
 app_env=${1:-development}
 
 # Define build target
