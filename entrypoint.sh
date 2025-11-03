@@ -3,7 +3,7 @@
 app_env=${1:-development}
 
 # Define build target
-build_target="hello_world"
+build_target="app"
 
 # Development environment commands
 dev_commands() {
